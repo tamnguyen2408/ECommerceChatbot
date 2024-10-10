@@ -257,3 +257,5 @@ D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ECommerceChatbot
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ref\ECommerceChatbot.dll
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutUser.cshtml.rz.scp.css
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ECommerceChatbot.sourcelink.json
+D:\ECommerceChatbot_Đồ án\ECommerceChatbot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ECommerceChatbot_Đồ án\ECommerceChatbot\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
