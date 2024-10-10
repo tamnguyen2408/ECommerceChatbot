@@ -256,3 +256,4 @@ D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ECommerceChatbot
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ECommerceChatbot.genruntimeconfig.cache
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ref\ECommerceChatbot.dll
 D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutUser.cshtml.rz.scp.css
+D:\ECommerceChatbot_Đồ án\ECommerceChatbot\obj\Debug\net8.0\ECommerceChatbot.sourcelink.json

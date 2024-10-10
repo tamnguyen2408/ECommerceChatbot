@@ -23,6 +23,8 @@ namespace ECommerceChatbot.Models
 
         [Phone] // Validate phone number format
         public string Phone { get; set; }
+        [Required]
+        public string Role { get; set; }
 
         // Navigation property for ChatbotInteractions
         public ICollection<ChatbotInteraction> ChatbotInteractions { get; set; }

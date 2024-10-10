@@ -7889,496 +7889,420 @@
       "PackagePath": "staticwebassets\\LayoutAdmin\\plugins\\uplot\\uPlot.min.css"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\elegant-icons.css",
-      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\authentication.css",
+      "PackagePath": "staticwebassets\\css\\authentication.css"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\magnific-popup.css",
-      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\nice-select.css",
-      "PackagePath": "staticwebassets\\css\\nice-select.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\icomoon\\Read Me.txt"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\slicknav.min.css",
-      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\css\\style.css.map",
-      "PackagePath": "staticwebassets\\css\\style.css.map"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\about-us.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\about-us.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\icomoon\\icomoon.css"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\team-1.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\team-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\icomoon\\selection.json"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\team-2.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\team-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\american-express.jpg",
+      "PackagePath": "staticwebassets\\images\\american-express.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\team-3.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\team-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\images\\app-store.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\team-4.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\team-4.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\banner-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\testimonial-author.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\testimonial-author.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\banner-image4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image4.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\about\\testimonial-pic.jpg",
-      "PackagePath": "staticwebassets\\img\\about\\testimonial-pic.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\banner\\banner-1.jpg",
-      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\banner\\banner-2.jpg",
-      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\brand1.png",
+      "PackagePath": "staticwebassets\\images\\brand1.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\banner\\banner-3.jpg",
-      "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\brand2.png",
+      "PackagePath": "staticwebassets\\images\\brand2.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\brand3.png",
+      "PackagePath": "staticwebassets\\images\\brand3.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\brand4.png",
+      "PackagePath": "staticwebassets\\images\\brand4.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\brand5.png",
+      "PackagePath": "staticwebassets\\images\\brand5.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-4.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\cat-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-item1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-5.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\cat-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-item2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-6.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\cat-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-item3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-7.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\collection-item.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-8.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\collection-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\blog-9.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\collection-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\details\\blog-author.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-author.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\collection-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection-item3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\blog\\details\\blog-details.jpg",
-      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\curly-divider.svg",
+      "PackagePath": "staticwebassets\\images\\curly-divider.svg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\breadcrumb-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\error-image.jpg",
+      "PackagePath": "staticwebassets\\images\\error-image.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-1.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\images\\google-play.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-2.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\hero-image.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-image.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-3.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\hero-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-image1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-4.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-5.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-6.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-7.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image4.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\clients\\client-8.png",
-      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image5.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\footer-logo.png",
-      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\insta-image6.jpg",
+      "PackagePath": "staticwebassets\\images\\insta-image6.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\hero\\hero-1.jpg",
-      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\leaf.png",
+      "PackagePath": "staticwebassets\\images\\leaf.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\hero\\hero-2.jpg",
-      "PackagePath": "staticwebassets\\img\\hero\\hero-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\icon\\calendar.png",
-      "PackagePath": "staticwebassets\\img\\icon\\calendar.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\icon\\cart.png",
-      "PackagePath": "staticwebassets\\img\\icon\\cart.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\main-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\icon\\compare.png",
-      "PackagePath": "staticwebassets\\img\\icon\\compare.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\images\\main-logo.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\icon\\heart.png",
-      "PackagePath": "staticwebassets\\img\\icon\\heart.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\mastercard.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\icon\\search.png",
-      "PackagePath": "staticwebassets\\img\\icon\\search.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\model.jpg",
+      "PackagePath": "staticwebassets\\images\\model.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-1.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\ns-arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\ns-arrow-right.svg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-2.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-3.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-4.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-4.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-5.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-5.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img4.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\instagram\\instagram-6.jpg",
-      "PackagePath": "staticwebassets\\img\\instagram\\instagram-6.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img5.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img5.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img6.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img6.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\payment.png",
-      "PackagePath": "staticwebassets\\img\\payment.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img7.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img7.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product-sale.png",
-      "PackagePath": "staticwebassets\\img\\product-sale.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img8.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img8.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-img9.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img9.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-10.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-small-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-11.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-small-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-12.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\post-small-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-small-image3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-13.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-13.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-image.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-14.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-14.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item4.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-5.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-large-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-large-1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-6.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-large-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-large-2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-7.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-large-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-large-3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-8.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumbnail-1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\product\\product-9.jpg",
-      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumbnail-2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\details-payment.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\details-payment.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\product-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumbnail-3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\product-big-2.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-2.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\review-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\review-image1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\product-big-3.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-3.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\review-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\review-image2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\product-big-4.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-4.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products1.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\product-big.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\product-big.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products10.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products10.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\thumb-1.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-1.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products11.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products11.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\thumb-2.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-2.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products12.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products12.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\thumb-3.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-3.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products13.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products13.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shop-details\\thumb-4.png",
-      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-4.png"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products14.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products14.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
-      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-1.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products15.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products15.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
-      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-2.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products16.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products16.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
-      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-3.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products17.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products17.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
-      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-4.jpg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products18.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products18.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products19.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products19.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\ElegantIcons.eot",
-      "PackagePath": "staticwebassets\\js\\fonts\\ElegantIcons.eot"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products2.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\ElegantIcons.svg",
-      "PackagePath": "staticwebassets\\js\\fonts\\ElegantIcons.svg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products20.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products20.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\ElegantIcons.ttf",
-      "PackagePath": "staticwebassets\\js\\fonts\\ElegantIcons.ttf"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products3.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products3.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\ElegantIcons.woff",
-      "PackagePath": "staticwebassets\\js\\fonts\\ElegantIcons.woff"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products4.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products4.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\js\\fonts\\FontAwesome.otf"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products5.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products5.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\js\\fonts\\fontawesome-webfont.eot"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products6.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products6.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\js\\fonts\\fontawesome-webfont.svg"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products7.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products7.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\js\\fonts\\fontawesome-webfont.ttf"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products8.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products8.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\js\\fonts\\fontawesome-webfont.woff"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\selling-products9.jpg",
+      "PackagePath": "staticwebassets\\images\\selling-products9.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\js\\fonts\\fontawesome-webfont.woff2"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\single-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery-3.3.1.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\single-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image2.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery.countdown.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\text-pattern.png",
+      "PackagePath": "staticwebassets\\images\\text-pattern.png"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery.nice-select.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\video-image.jpg",
+      "PackagePath": "staticwebassets\\images\\video-image.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery.nicescroll.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\images\\visa-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\visa-icon.jpg"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery.slicknav.js",
-      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\main.js",
-      "PackagePath": "staticwebassets\\js\\main.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\mixitup.min.js",
-      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_about.scss",
-      "PackagePath": "staticwebassets\\sass\\_about.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_base.scss",
-      "PackagePath": "staticwebassets\\sass\\_base.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_blog-details.scss",
-      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_blog-sidebar.scss",
-      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_blog.scss",
-      "PackagePath": "staticwebassets\\sass\\_blog.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_checkout.scss",
-      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_contact.scss",
-      "PackagePath": "staticwebassets\\sass\\_contact.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_footer.scss",
-      "PackagePath": "staticwebassets\\sass\\_footer.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_header.scss",
-      "PackagePath": "staticwebassets\\sass\\_header.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_hero.scss",
-      "PackagePath": "staticwebassets\\sass\\_hero.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_home-page.scss",
-      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_mixins.scss",
-      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_product.scss",
-      "PackagePath": "staticwebassets\\sass\\_product.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_responsive.scss",
-      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_shop-details.scss",
-      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_shop.scss",
-      "PackagePath": "staticwebassets\\sass\\_shop.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_shopping-cart.scss",
-      "PackagePath": "staticwebassets\\sass\\_shopping-cart.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\_variable.scss",
-      "PackagePath": "staticwebassets\\sass\\_variable.scss"
-    },
-    {
-      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\sass\\style.scss",
-      "PackagePath": "staticwebassets\\sass\\style.scss"
+      "Id": "D:\\ECommerceChatbot_Đồ án\\ECommerceChatbot\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceChatbot.Microsoft.AspNetCore.StaticWebAssets.props",
