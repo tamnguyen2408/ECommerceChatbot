@@ -17,67 +17,111 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ECommerceChatbot
 build_property.RootNamespace = ECommerceChatbot
-build_property.ProjectDir = D:\ECommerceChatbot_Đồ án\ECommerceChatbot\
+build_property.ProjectDir = C:\Users\leduo\Source\Repos\ECommerceChatbot\ECommerceChatbot\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ECommerceChatbot_Đồ án\ECommerceChatbot
+build_property.MSBuildProjectDirectory = C:\Users\leduo\Source\Repos\ECommerceChatbot\ECommerceChatbot
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Areas/Admin/Views/ProductManagement/Index.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductCategoryManagement/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5TWFuYWdlbWVudFxBZGRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductCategoryManagement/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5TWFuYWdlbWVudFxFZGl0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductCategoryManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5TWFuYWdlbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductManagement/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdE1hbmFnZW1lbnRcQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductManagement/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdE1hbmFnZW1lbnRcRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ProductManagement/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdE1hbmFnZW1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Auth/Login.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/UsersManagement/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNYW5hZ2VtZW50XEFkZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/UsersManagement/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNYW5hZ2VtZW50XEVkaXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/UsersManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNYW5hZ2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ViewSalesReports/ViewSalesReportsByDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld1NhbGVzUmVwb3J0c1xWaWV3U2FsZXNSZXBvcnRzQnlEYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ViewSalesReports/ViewSalesReportsByMonth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld1NhbGVzUmVwb3J0c1xWaWV3U2FsZXNSZXBvcnRzQnlNb250aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Areas/Admin/Views/ViewSalesReports/ViewSalesReportsByYear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld1NhbGVzUmVwb3J0c1xWaWV3U2FsZXNSZXBvcnRzQnlZZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Auth/Register.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Home/Index.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Home/Privacy.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Shared/Error.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Shared/LayoutAuthentication.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Shared/LayoutAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/User/Index.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/_ViewImports.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/_ViewStart.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommerceChatbot_Đồ án/ECommerceChatbot/Views/Shared/_LayoutUser.cshtml]
+[C:/Users/leduo/Source/Repos/ECommerceChatbot/ECommerceChatbot/Views/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-usv0l3r9ab
