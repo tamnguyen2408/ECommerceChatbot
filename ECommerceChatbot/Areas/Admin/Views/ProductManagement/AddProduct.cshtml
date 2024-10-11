@@ -1,8 +1,33 @@
-﻿
+﻿@model ECommerceChatbot.Models.Product
 @{
-    ViewData["Title"] = "AddProduct";
+    ViewData["Title"] = "Add Product";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1>AddProduct</h1>
+<h2>Add New Product</h2>
 
+<form asp-action="AddProduct" method="post">
+    <!-- Hidden field for ProductID -->
+    @if (Model != null && Model.ProductID > 0)
+    {
+        <input asp-for="ProductID" type="hidden" />
+    }
+
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Price</label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Stock">Stock</label>
+        <input asp-for="Stock" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
