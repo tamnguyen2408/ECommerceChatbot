@@ -1,8 +1,43 @@
-﻿
+﻿@model IEnumerable<ECommerceChatbot.Models.User>
+
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Users Management";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
 <h1>Users Management</h1>
 
+<p>
+    <a href="/Admin/UsersManagement/AddUser" asp-area="Admin" asp-controller="UsersManagement" asp-action="AddUser" class="btn btn-primary">Add New User</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>UserID</th>
+            <th>UserName</th>
+            <th>Email</th>
+            <th>Password</th>
+            <th>Phone</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserID</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>@item.Password</td>
+                <td>@item.Phone</td>
+                <td>@item.Role</td>
+                <td>
+                    <a asp-area="Admin" asp-controller="UsersManagement" asp-action="Edit" asp-route-id="@item.UserID" class="btn btn-warning">Edit</a>
+                    <a asp-area="Admin" asp-controller="UsersManagement" asp-action="Delete" asp-route-id="@item.UserID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

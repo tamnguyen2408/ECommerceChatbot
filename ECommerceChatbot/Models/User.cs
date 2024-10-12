@@ -9,21 +9,22 @@ namespace ECommerceChatbot.Models
         [Key]
         public int UserID { get; set; }
 
-        [Required]
-        [StringLength(100)] // Set max length for username
+        [Required(ErrorMessage = "User name is required")]
+        [StringLength(100, ErrorMessage = "User name cannot exceed 100 characters")]
         public string UserName { get; set; }
 
-        [Required]
-        [EmailAddress] // Validate email format
+        [Required(ErrorMessage = "Email is required")]
+        [EmailAddress(ErrorMessage = "Invalid email format")]
         public string Email { get; set; }
 
-        [Required]
-        [StringLength(100)] // Set max length for password
+        [Required(ErrorMessage = "Password is required")]
+        [StringLength(100, ErrorMessage = "Password cannot exceed 100 characters")]
         public string Password { get; set; }
 
-        [Phone] // Validate phone number format
+        [Phone(ErrorMessage = "Invalid phone number format")]
         public string Phone { get; set; }
-        [Required]
+
+        [Required(ErrorMessage = "Role is required")]
         public string Role { get; set; }
 
         // Navigation property for ChatbotInteractions
